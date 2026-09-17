@@ -1,4 +1,8 @@
-#             🌀 Flowseal/zapret-discord-youtube 🚫
+#             <h1 align="center">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord"/>
+  Flowseal/zapret-discord-youtube
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord"/>
+</h1>
 
 NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy
 Альтернатива: https://github.com/bol-van/zapret-win-bundle
