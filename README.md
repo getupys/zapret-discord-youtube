@@ -1,7 +1,7 @@
-#             <h1 align="center">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord"/>
-  Flowseal/zapret-discord-youtube
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord"/>
+<h1 align="center">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="28" height="28" alt="Discord" style="vertical-align: middle; margin-right: 8px;">
+  <a href="https://github.com/Flowseal/zapret-discord-youtube" style="text-decoration: underline;">Flowseal/zapret-discord-youtube</a>
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" height="28" alt="YouTube" style="vertical-align: middle; margin-left: 8px;">
 </h1>
 
 NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy
