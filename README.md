@@ -1,4 +1,4 @@
-# 🌀 Flowseal/zapret-discord-youtube 🚫
+#             🌀 Flowseal/zapret-discord-youtube 🚫
 
 NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy
 Альтернатива: https://github.com/bol-van/zapret-win-bundle
