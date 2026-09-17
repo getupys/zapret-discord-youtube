@@ -4,9 +4,11 @@
   <img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" height="28" alt="YouTube" style="vertical-align: middle; margin-left: 8px;">
 </h1>
 
-NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy
-Альтернатива: https://github.com/bol-van/zapret-win-bundle
-Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret)
+<p align="center">
+  <b>NEW</b>: Ускорение Telegram Desktop - <a href="https://github.com/Flowseal/tg-ws-proxy">https://github.com/Flowseal/tg-ws-proxy</a><br>
+  Альтернатива: <a href="https://github.com/bol-van/zapret-win-bundle">https://github.com/bol-van/zapret-win-bundle</a><br>
+  Также вы можете материально поддержать оригинального разработчика zapret <a href="https://github.com/bol-van/zapret">тут</a>
+</p>
 
 > [!CAUTION]
 > **ФЕЙКИ**
